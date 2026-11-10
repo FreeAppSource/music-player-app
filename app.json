@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Music Player App",
+    "slug": "music-player",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#6366F1"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "musicplayer"
+  }
+}
